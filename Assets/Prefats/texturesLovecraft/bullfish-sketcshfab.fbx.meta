@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 2e9be832c614c2840b1c6d3bbeb0231d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ankle-cnrtl.L
+    100002: ankle-cnrtl.L_end
+    100004: ankle-cnrtl.R
+    100006: ankle-cnrtl.R_end
+    100008: ankle-lift-cntrl.L
+    100010: ankle-lift-cntrl.R
+    100012: arm-1.L
+    100014: arm-1.R
+    100016: arm-2.L
+    100018: arm-2.R
+    100020: bullfish
+    100022: //RootNode
+    100024: bullfish.001
+    100026: chest
+    100028: elbow-trgt-L
+    100030: elbow-trgt-L_end
+    100032: elbow-trgt-R
+    100034: elbow-trgt-R_end
+    100036: foot-1.L
+    100038: foot-1.R
+    100040: foot-2.L
+    100042: foot-2.L_end
+    100044: foot-2.R
+    100046: foot-2.R_end
+    100048: hand-cntrl.L
+    100050: hand-cntrl.L_end
+    100052: hand-cntrl.R
+    100054: hand-cntrl.R_end
+    100056: hand.L
+    100058: hand.L_end
+    100060: hand.R
+    100062: hand.R_end
+    100064: head
+    100066: head-cntrl
+    100068: head-cntrl_end
+    100070: heel-cntrl.L
+    100072: heel-cntrl.R
+    100074: hip-root
+    100076: jaw
+    100078: jaw_end
+    100080: knee-trgt.L
+    100082: knee-trgt.L_end
+    100084: knee-trgt.R
+    100086: knee-trgt.R_end
+    100088: leg-1.L
+    100090: leg-1.R
+    100092: leg-2.L
+    100094: leg-2.R
+    100096: neck
+    100098: pelvis
+    100100: root
+    100102: shoulder.L
+    100104: shoulder.R
+    100106: spine
+    100108: tail-1
+    100110: tail-2
+    100112: tail-2_end
+    100114: toetip-cntrl.L
+    100116: toetip-cntrl.R
+    400000: ankle-cnrtl.L
+    400002: ankle-cnrtl.L_end
+    400004: ankle-cnrtl.R
+    400006: ankle-cnrtl.R_end
+    400008: ankle-lift-cntrl.L
+    400010: ankle-lift-cntrl.R
+    400012: arm-1.L
+    400014: arm-1.R
+    400016: arm-2.L
+    400018: arm-2.R
+    400020: bullfish
+    400022: //RootNode
+    400024: bullfish.001
+    400026: chest
+    400028: elbow-trgt-L
+    400030: elbow-trgt-L_end
+    400032: elbow-trgt-R
+    400034: elbow-trgt-R_end
+    400036: foot-1.L
+    400038: foot-1.R
+    400040: foot-2.L
+    400042: foot-2.L_end
+    400044: foot-2.R
+    400046: foot-2.R_end
+    400048: hand-cntrl.L
+    400050: hand-cntrl.L_end
+    400052: hand-cntrl.R
+    400054: hand-cntrl.R_end
+    400056: hand.L
+    400058: hand.L_end
+    400060: hand.R
+    400062: hand.R_end
+    400064: head
+    400066: head-cntrl
+    400068: head-cntrl_end
+    400070: heel-cntrl.L
+    400072: heel-cntrl.R
+    400074: hip-root
+    400076: jaw
+    400078: jaw_end
+    400080: knee-trgt.L
+    400082: knee-trgt.L_end
+    400084: knee-trgt.R
+    400086: knee-trgt.R_end
+    400088: leg-1.L
+    400090: leg-1.R
+    400092: leg-2.L
+    400094: leg-2.R
+    400096: neck
+    400098: pelvis
+    400100: root
+    400102: shoulder.L
+    400104: shoulder.R
+    400106: spine
+    400108: tail-1
+    400110: tail-2
+    400112: tail-2_end
+    400114: toetip-cntrl.L
+    400116: toetip-cntrl.R
+    2100000: Material
+    4300000: bullfish
+    7400000: bullfish.001|attack-1
+    7400002: bullfish.001|attack-2
+    7400004: bullfish.001|crouch
+    7400006: bullfish.001|death-1
+    7400008: bullfish.001|death-2
+    7400010: bullfish.001|death-3
+    7400012: bullfish.001|hit-1
+    7400014: bullfish.001|hit-2
+    7400016: bullfish.001|idle
+    7400018: bullfish.001|jump
+    7400020: bullfish.001|lurk
+    7400022: bullfish.001|strafe-left
+    7400024: bullfish.001|strafe-right
+    7400026: walk
+    9500000: //RootNode
+    13700000: bullfish
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: dd05ec585f7320240b381cafbb691f54, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: bullfish.001|walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
